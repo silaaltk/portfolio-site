@@ -8,8 +8,7 @@ You can view the deployed portfolio here:
 ## Getting Started
 
 To run this project locally, follow these steps:
-
-To run this project locally, follow these steps:
+ 
 
 ```bash
 1-Clone the repository:
