@@ -16,6 +16,11 @@ export default function Home() {
          Quotes To Scrape
           </a>
         </li>
+        <li>
+          <a href="https://github.com/silaaltk/portfolio-site" target="_blank">
+          Portfolio Site
+          </a>
+        </li>
       </ul>
     </section>
     <section id="contact">
