@@ -3,7 +3,7 @@ This project is a personal portfolio site built using **Next.js and React**.
 
 ## Live Site
 You can view the deployed portfolio here:  
-[https://portfolio-site-cyan-theta.vercel.app](https://portfolio-site-cyan-theta.vercel.app)
+[https://silaaltk-portfolio-site.vercel.app](https://silaaltk-portfolio-site.vercel.app)
 
 ## Getting Started
 
